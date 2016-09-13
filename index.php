@@ -21,6 +21,8 @@
 	
 	<script type="text/javascript">
 		// $(document).ready(function() {
+			
+			// THIS LINE WAS ADDED ON THE GITHUB SITE
 								   
 			// var currentPosition = 0;
 			// var slideWidth = 500;
